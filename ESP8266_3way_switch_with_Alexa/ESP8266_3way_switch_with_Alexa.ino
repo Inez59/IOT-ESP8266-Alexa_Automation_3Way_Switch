@@ -17,9 +17,9 @@ int currentAlexaState;
 // Code is tested with ESP8266 ESP-12E 
 /*********************************/
  // You only need to modify folloing settings to get it to work woth Alexa and your network
-const char* ssid     = "enter your ssid"; //enter your ssid/ wi-fi(case sensitive) router name - 2.4 Ghz only
-const char* password = "enter your password"; 
-String device_name= "DemoSwitch";// you can chage the device name from "DemoSwitch" to anything
+const char* ssid     = "TC8717T2D"; //enter your ssid/ wi-fi(case sensitive) router name - 2.4 Ghz only
+const char* password = "60482D"; 
+String device_name= "Pendeja";// you can chage the device name from "DemoSwitch" to anything
  // local port to listen on
 /*********************************/
 //Change the GPIO
